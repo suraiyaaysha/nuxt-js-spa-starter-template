@@ -1,4 +1,4 @@
-# nuxt-spa-starter-template
+# nuxt-js-spa-starter-template
 
 ## Build Setup
 
