@@ -1,4 +1,4 @@
-# asa
+# nuxt-spa-starter-template
 
 ## Build Setup
 
